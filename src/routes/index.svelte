@@ -10,7 +10,7 @@
 	import pic9thumb from '../lib/images/thumbs/pic9thumb.jpg';
 	import pic10thumb from '../lib/images/thumbs/pic10thumb.jpg';
 	import pic12thumb from '../lib/images/thumbs/pic12thumb.jpg';
-	import pic14thumb from '../lib/images/thumbs/pic4thumb.jpg';
+	import pic4thumb from '../lib/images/thumbs/pic4thumb.jpg';
 
 	import p1thumb from '../lib/images/thumbs/p1thumb.jpg';
 	import p2thumb from '../lib/images/thumbs/p2thumb.jpg';
@@ -37,12 +37,13 @@
 	<a href="/p5zoom"><img src={p5thumb} alt="fuckit"></a>
 </div>
 <div class="column">
+	<a href="/pic4zoom"><img src={pic4thumb} alt="fuckit"></a>
 	<a href="/pic5zoom"><img src={pic5thumb} alt="fuckit"></a>
 	<a href="/pic7zoom"><img src={pic7thumb} alt="fuckit"></a>
 	<a href="/pic8zoom"><img src={pic8thumb} alt="fuckit"></a>
 	<a href="/pic10zoom"><img src={pic10thumb} alt="fuckit"></a>
 	<a href="/pic12zoom"><img src={pic12thumb} alt="fuckit"></a>
-	<a href="/pic14zoom"><img src={pic14thumb} alt="fuckit"></a>
+	<a href="/pic4zoom"><img src={pic4thumb} alt="fuckit"></a>
 	<a href="/pic9zoom"><img src={pic9thumb} alt="fuckit"></a>
 </div>
 

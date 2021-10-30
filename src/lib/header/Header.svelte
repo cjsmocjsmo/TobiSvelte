@@ -22,6 +22,7 @@
 			<li class:active={$page.path === '/pic10'}></li>
 			<li class:active={$page.path === '/pic11'}></li>
 			<li class:active={$page.path === '/pic12'}></li>
+			
 		</ul>
 	</nav>
 </header>

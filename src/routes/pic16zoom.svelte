@@ -1,8 +1,11 @@
 <script>
-    import imgp3 from '../lib/images/p3.jpg';
+    import imgpic16 from '../lib/images/FB_IMG_4.jpg';
 </script>
 
-<img src={imgp3} alt="fuckit">
+
+
+<img src={imgpic16} alt="fuckit">
+
 
 <style>
     img {

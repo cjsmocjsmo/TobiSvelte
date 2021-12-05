@@ -27,7 +27,7 @@
 <svelte:head>
 	<title>Tobi</title>
 </svelte:head>
-<a href="https://frontpage-czi.pages.dev/" ><button>Back</button></a>
+
 <div class="column">
 	<a href="/pic4zoom"><img src={pic4thumb} alt="fuckit"></a>
 	<a href="/pic5zoom"><img src={pic5thumb} alt="fuckit"></a>
@@ -50,7 +50,7 @@
 	<a href="/pic15zoom"><img src={p3} alt="fuckit"></a>
 	<a href="/pic16zoom"><img src={p4} alt="fuckit"></a>
 </div>
-<a href="https://frontpage-czi.pages.dev/" ><button>Back</button></a>
+<a href="https://frontpage-czi.pages.dev/" ><button>Home</button></a>
 <style>
 
 	button {
@@ -60,6 +60,7 @@
 		background-color: white;
 		font-size: 1.25em;
 		color: black;
+		text-align: center;
     }
 
 	.column {

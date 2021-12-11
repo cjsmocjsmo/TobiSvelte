@@ -1,11 +1,8 @@
 <script>
-    import imgpic14 from '../lib/images/FB_IMG_2.jpg';
+    import imgpic14 from '../lib/images/FB_IMG_2.webp';
 </script>
 
-
-
 <img src={imgpic14} alt="fuckit">
-
 
 <style>
     img {

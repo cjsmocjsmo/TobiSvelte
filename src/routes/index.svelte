@@ -1,27 +1,27 @@
 <script context="module">
 	export const prerender = true;
-	import pic1_1thumb from '../lib/images/thumbs/pic1_1thumb.jpg';
-	import pic2_1thumb from '../lib/images/thumbs/pic2_1thumb.jpg';
-	import pic3_1thumb from '../lib/images/thumbs/pic3_1thumb.jpg';
+	import pic1_1thumb from '../lib/images/thumbs/pic1_1thumb.webp';
+	import pic2_1thumb from '../lib/images/thumbs/pic2_1thumb.webp';
+	import pic3_1thumb from '../lib/images/thumbs/pic3_1thumb.webp';
 	
-	import pic5thumb from '../lib/images/thumbs/pic5thumb.jpg';
-	import pic7thumb from '../lib/images/thumbs/pic7thumb.jpg';
-	import pic8thumb from '../lib/images/thumbs/pic8thumb.jpg';
-	import pic9thumb from '../lib/images/thumbs/pic9thumb.jpg';
-	import pic10thumb from '../lib/images/thumbs/pic10thumb.jpg';
-	import pic12thumb from '../lib/images/thumbs/pic12thumb.jpg';
-	import pic4thumb from '../lib/images/thumbs/pic4thumb.jpg';
+	import pic5thumb from '../lib/images/thumbs/pic5thumb.webp';
+	import pic7thumb from '../lib/images/thumbs/pic7thumb.webp';
+	import pic8thumb from '../lib/images/thumbs/pic8thumb.webp';
+	import pic9thumb from '../lib/images/thumbs/pic9thumb.webp';
+	import pic10thumb from '../lib/images/thumbs/pic10thumb.webp';
+	import pic12thumb from '../lib/images/thumbs/pic12thumb.webp';
+	import pic4thumb from '../lib/images/thumbs/pic4thumb.webp';
 
-	import p1thumb from '../lib/images/thumbs/p1thumb.jpg';
-	import p2thumb from '../lib/images/thumbs/p2thumb.jpg';
-	import p3thumb from '../lib/images/thumbs/p3thumb.jpg';
-	import p4thumb from '../lib/images/thumbs/p4thumb.jpg';
-	import p5thumb from '../lib/images/thumbs/p5thumb.jpg';
+	import p1thumb from '../lib/images/thumbs/p1thumb.webp';
+	import p2thumb from '../lib/images/thumbs/p2thumb.webp';
+	import p3thumb from '../lib/images/thumbs/p3thumb.webp';
+	import p4thumb from '../lib/images/thumbs/p4thumb.webp';
+	import p5thumb from '../lib/images/thumbs/p5thumb.webp';
 
-	import p1 from '$lib/images/thumbs/FB_IMG_1thumb.jpg';
-	import p2 from '$lib/images/thumbs/FB_IMG_2thumb.jpg';
-	import p3 from '$lib/images/thumbs/FB_IMG_3thumb.jpg';
-	import p4 from '$lib/images/thumbs/FB_IMG_4thumb.jpg';
+	import p1 from '$lib/images/thumbs/FB_IMG_1thumb.webp';
+	import p2 from '$lib/images/thumbs/FB_IMG_2thumb.webp';
+	import p3 from '$lib/images/thumbs/FB_IMG_3thumb.webp';
+	import p4 from '$lib/images/thumbs/FB_IMG_4thumb.webp';
 </script>
 
 <svelte:head>
